@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/54/19/02/541902f716f7edd427cfa5a9e1230be6.png">  
+  <img src="https://te.legra.ph/file/44ed82b29209035d052a2.jpg">  
 </p>
 
 <h1 align="center">Termux Voice Welcome - NEIMAN</h1>
