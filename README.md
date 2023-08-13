@@ -2,12 +2,12 @@
   <img src="https://i.pinimg.com/originals/54/19/02/541902f716f7edd427cfa5a9e1230be6.png">  
 </p>
 
-<h1 align="center">Termux Voice Welcome - OnlineHacking</h1>
+<h1 align="center">Termux Voice Welcome - NEIMAN</h1>
 <p align="center">
   Welcome Banner In Termux
 </p>
 
-<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Mr.Suman || OnlineHacking-blue.svg">
+<a href="https://t.me/Neiman_X_Support">
 
 
 ### MAINTAINERS
@@ -90,7 +90,7 @@ Facebook :-  https://fb.com/_neiman_marcus_0
 
 Twitter :- soon....
 
-Instagram :- https://bit.ly/_neiman_marcus_0
+Instagram :- https://instagram.com/_neiman_marcus_0
 
 <a href="https://t.me/Neiman_X_Support"><img src="https://img.shields.io/badge/telegram-Ms.Suman || OnlineHacking-blue.svg">
 
