@@ -15,7 +15,7 @@
 Github: <a href="https://github.com/NEIMAN-AI">@NEIMAN-AI</a>
 Telegram: <a href="https://t.me/fuck_uff_XD">@fuck_uff_XD</a>
 
-![unnamed (2)](https://i.pinimg.com/originals/32/9b/50/329b50a3d16e930c39414b1cd32948f7.jpg)
+![unnamed (2)](https://te.legra.ph/file/cffd33b551c63dab6c03e.jpg)
 
 ## Video Tutorials
 
