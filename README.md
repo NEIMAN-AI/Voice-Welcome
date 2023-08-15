@@ -10,26 +10,26 @@
 <a href="https://t.me/Neiman_X_Support">
 
 
-### MAINTAINERS
+### MAINTAINERS ⚜️
 * **NEIMAN MARCUS**| 
 Github: <a href="https://github.com/NEIMAN-AI">@NEIMAN-AI</a>
 Telegram: <a href="https://t.me/fuck_uff_XD">@fuck_uff_XD</a>
 
 ![unnamed (2)](https://te.legra.ph/file/cffd33b551c63dab6c03e.jpg)
 
-## Video Tutorials
+## Video Tutorials 🙂
 
 [Video](Comming...)
 
 
-## Requirements
+## Requirements ⚡⚡
 
 1. [Termux App](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN)
 2. [Termux API App](https://play.google.com/store/apps/details?id=com.termux.api&hl=en_IN)
 
-# ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
+# 🔥🔥 Commands 🔥🔥
 
-### ☣️ Installation and Usage Guide
+### ⚜️ Installation and Usage Guide
 ```
 $ apt-get update -y
 ```
@@ -92,7 +92,7 @@ Twitter :- soon....
 
 Instagram :- https://instagram.com/_neiman_marcus_0
 
-<a href="https://t.me/Neiman_X_Support"><img src="https://img.shields.io/badge/telegram-Ms.Suman || OnlineHacking-blue.svg">
+<a href="https://t.me/Neiman_X_Support"><img src="https://img.shields.io/badge/telegram-Ms.Neiman || TeamNeiman-blue.svg">
 
 
                                        Inspired By github.com/NEIMAN-AI
