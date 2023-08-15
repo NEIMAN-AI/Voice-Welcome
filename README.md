@@ -27,7 +27,7 @@ Telegram: <a href="https://t.me/fuck_uff_XD">@fuck_uff_XD</a>
 1. [Termux App](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN)
 2. [Termux API App](https://play.google.com/store/apps/details?id=com.termux.api&hl=en_IN)
 
-# 🔥🔥 Commands 🔥🔥
+# 🔥 Commands
 
 ### ⚜️ Installation and Usage Guide
 ```
@@ -53,12 +53,12 @@ $ sh install.sh
 ```
 Now Type exit & restart Termux
 
-### Update Tool
+### Update Tool ⚡
 ```
 $ rm -rf 'Voice-Welcome' && pkg install mpv -y && git clone https://github.com/NEIMAN-AI/Voice-Welcome && cd Voice-Welcome && chmod +x * && sh install.sh && exit
 ```
 
-## Video Tutorials
+## Video Tutorials ⚡
 
 [Video](https://youtu.be/g8GF7n0O_LI)
 
@@ -67,30 +67,30 @@ https://www.youtube.com/_neiman_marcus_0
 
 
 
-# ■□■□■□■□■□■□ Warning □■□■□■□■□■□■
+# ❎ Warning ❎
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
 ***This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool***
 
 
-# ■□■□■□■□■□■□ Social Media □■□■□■□■□■□■
+# 🖤Social Media🖤
 
-Website :- comming soon....
+⚜️ Website :- comming soon....
 
-YouTube Channel :- https://youtube.com/_neiman_marcus_0
+⚜️ YouTube Channel :- https://youtube.com/_neiman_marcus_0
 
-Telegram Channel :- https://t.me/DETECTED_09
+⚜️ Telegram Channel :- https://t.me/DETECTED_09
 
-Telegram Group :- https://t.me/Neiman_X_Support
+⚜️ Telegram Group :- https://t.me/Neiman_X_Support
 
-Github :- https://github.com/NEIMAN-AI
+⚜️ Github :- https://github.com/NEIMAN-AI
 
-Facebook :-  https://fb.com/_neiman_marcus_0
+⚜️ Facebook :-  https://fb.com/_neiman_marcus_0
 
-Twitter :- soon....
+⚜️ Twitter :- soon....🐥
 
-Instagram :- https://instagram.com/_neiman_marcus_0
+⚜️ Instagram :- https://instagram.com/_neiman_marcus_0
 
 <a href="https://t.me/Neiman_X_Support"><img src="https://img.shields.io/badge/telegram-Ms.Neiman || TeamNeiman-blue.svg">
 
